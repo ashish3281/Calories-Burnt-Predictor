@@ -6,7 +6,7 @@ import sys
 
 importlib.reload(sys)
 
-loaded_model = pickle.load(open('C:/Users/HP/OneDrive/Desktop/ML projects/calories_model.sav', 'rb'))
+loaded_model = pickle.load(open('calories_model.sav', 'rb'))
 
 def Calories_prediction(input_data):
     # encode input data to UTF-8 format
