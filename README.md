@@ -34,7 +34,8 @@ height,weight and age of the person.
  <li>Integrate PyTorch, TensorFlow, Keras, OpenCV</li>
  <li>Free Cloud service with free</li>
   </ul
-<h2>cONCLUSION</h2>
+  
+<h2>CONCLUSION</h2>
 <p>From the analysis we met with a conclusion that the XGB
 Regressor has more accurate results than the Linear regression
 model. Mean absolute error imply absolute error ought to be
