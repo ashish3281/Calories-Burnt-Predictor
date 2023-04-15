@@ -24,12 +24,13 @@ depends on the workout duration,body temperature,
 height,weight and age of the person.
 </p>
 <h2>Methodology</h2>
-<p>Document your code that supports mathematical
-equations
- Create,Upload,Share notebooks
- Import and save notebook from or to Google Drive
- Import or Publish notebooks from GitHub
- Import external datasets e.g. from Kaggle
- Integrate PyTorch, TensorFlow, Keras, OpenCV
- Free Cloud service with free
-  </p>
+  <ul>
+    <li>Document your code that supports mathematical
+      equations</li>
+ <li> Create,Upload,Share notebooks</li>
+ <li>Import and save notebook from or to Google Drive</li>
+ <li>Import or Publish notebooks from GitHub</li>
+ <li>Import external datasets e.g. from Kaggle</li>
+ <li>Integrate PyTorch, TensorFlow, Keras, OpenCV</li>
+ <li>Free Cloud service with free</li>
+  </ul
