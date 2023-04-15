@@ -34,3 +34,14 @@ height,weight and age of the person.
  <li>Integrate PyTorch, TensorFlow, Keras, OpenCV</li>
  <li>Free Cloud service with free</li>
   </ul
+<h2>cONCLUSION</h2>
+<p>From the analysis we met with a conclusion that the XGB
+Regressor has more accurate results than the Linear regression
+model. Mean absolute error imply absolute error ought to be
+as low as viable.. it is not anything but the difference between
+the actual and predicted values through the models. The mean
+absolute error value that is getting in XGB Regressor is 2.71
+which is a good value.The error values is very less. Therefore
+we can conclude that the best model for the calorie burn
+prediction is XGBoost Regressor.
+</p>
