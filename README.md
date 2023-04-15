@@ -23,3 +23,13 @@ regression algorithms are used to predict calories burned
 depends on the workout duration,body temperature,
 height,weight and age of the person.
 </p>
+<h2>Methodology</h2>
+<p>Document your code that supports mathematical
+equations
+ Create,Upload,Share notebooks
+ Import and save notebook from or to Google Drive
+ Import or Publish notebooks from GitHub
+ Import external datasets e.g. from Kaggle
+ Integrate PyTorch, TensorFlow, Keras, OpenCV
+ Free Cloud service with free
+  </p>
